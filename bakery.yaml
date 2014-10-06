@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [src/Anaheim-Regular.ufo, Anaheim-Regular.ttf.ttx, src/Anaheim-Regular.otf.ttx,
+  src/Anaheim-Regular-unhinted.ttf.ttx, src/Annaheim-Regular.sfd, src/Annaheim-Regular-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

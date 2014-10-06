@@ -1,0 +1,42 @@
+{
+  "name": "Anaheim",
+  "designer": "Vernon Adams",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 34740,
+  "fonts": [
+    {
+      "name": "Anaheim",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Annaheim-Regular.ttf",
+      "postScriptName": "Anaheim-Regular",
+      "fullName": "Anaheim Regular",
+      "copyright": "Copyright (c) 2010-12 by vernon adams. All rights reserved."
+    },
+    {
+      "name": "Anaheim",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Annaheim-Regular-TTF.ttf",
+      "postScriptName": "Anaheim-Regular",
+      "fullName": "Anaheim Regular",
+      "copyright": "Copyright (c) 2010-12 by vernon adams. All rights reserved."
+    },
+    {
+      "name": "Anaheim",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Anaheim-Regular.ttf",
+      "postScriptName": "Anaheim-Regular",
+      "fullName": "Anaheim Regular",
+      "copyright": "Copyright (c) 2010-12 by vernon adams. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-10-31"
+}
